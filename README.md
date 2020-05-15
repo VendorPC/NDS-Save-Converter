@@ -1,4 +1,3 @@
-==================
 NDS Save Converter
 ===================
 This code isn't mine, I found this tool buried on a old forum site and ressurected the code and simply repacked it.
